@@ -1,3 +1,5 @@
 now b.txt has some text!!!!!    
 
+adding text rules!
 
+More text rules!
