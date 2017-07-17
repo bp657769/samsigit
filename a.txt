@@ -1,3 +1,4 @@
+
 this is some test text
 
 another line of text
@@ -5,3 +6,8 @@ another line of text
 a + b = d
 
 Here is the best line of code
+
+a + b +  c +d  =e
+
+alternate history: neat
+
